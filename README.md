@@ -1,0 +1,2 @@
+# SheetAI
+An AI application to analyse excel files just we do in DBMS .
